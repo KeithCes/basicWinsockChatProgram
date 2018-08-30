@@ -1,5 +1,5 @@
 # basicWinsockChatProgram
-[WIP]A very basic chat program that allows communication between two clients through a server using Winsock
+[WIP] A very basic chat program that allows communication between two clients through a server using Winsock
 
 
 KNOWN ERRORS: 
